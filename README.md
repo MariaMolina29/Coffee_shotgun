@@ -7,14 +7,14 @@ Raw data from BioProject: PRJNA1305218
 3. Prediction of protein-coding genes with Prodigal (contigs)
 
   From here, output1 shows the scripts used to do: 
-5. Metagenome binning
-6. Checks quality to create MAGs
-7. Assigns taxonomy with GTDB-tk
-8. Analysis with eggnog for GO
-9. Protein prediction with bakta
+- Metagenome binning
+- Checks quality to create MAGs
+- Assigns taxonomy with GTDB-tk
+- Analysis with eggnog for GO
+- Protein prediction with bakta
 
   Now, output2 returns to part 3 and uses reads and contigs to:
-10. Assigns taxonomy with Tiara and Kraken
-11. Find mucilage degradation enzymes with dbCAN3
+- Assigns taxonomy with Tiara and Kraken
+- Find mucilage degradation enzymes with dbCAN3
 
 Python scripts for graphs
